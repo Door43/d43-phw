@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[phw:home|Door43 (phw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-phw|d43-phw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-phw/archive/master.zip|d43-phw.zip]]
+
+**Recent Changes**
+{{changes>ns = phw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/phw|Ethnologue data]]
+
